@@ -1,4 +1,4 @@
-# Pyramid-Challenge
+# Pyramid Challenge, by Ania Supady
 Fun data manipulation challenge.
 
 ---
